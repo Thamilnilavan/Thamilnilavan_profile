@@ -1,14 +1,8 @@
-# Hi, I'm Thamilnilavan 👋
+<h1 align="center">Hi 👋, I'm Tamilnilavan</h1>
 
-🚀 Full-Stack Developer | UI/UX Focus | Tech Enthusiast
-
----
-
-## 🧠 About Me
-- 🔭 I’m currently working on modern web apps 
-- 🎯 Focused on React, Next.js, Node.js, MongoDB
-- 🎨 Love creating dark luxury UI/UX experiences
-- ⚡ Always learning & building real-world systems
+<h3 align="center">
+Full-Stack Developer • Modern UI Engineer • Creative Technologist
+</h3>
 
 ---
 
